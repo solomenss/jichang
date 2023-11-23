@@ -68,7 +68,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="4">翻墙软件下载：<a href="https://github.com/Kejifaxian/welcome/" target="_blank">https://github.com/Kejifaxian/welcome/</a><br>
-机场推荐 Telegram：<a href="https://t.me/kejifenxiang" target="_blank">@kejifenxiang</a></td>
+    <td colspan="4">翻墙软件下载：<a href="https://github.com/solomenss/fanqiangsoft" target="_blank">https://github.com/solomenss/fanqiangsoft/</a><br>
+    </td>
   </tr>
 </table>
