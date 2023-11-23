@@ -17,13 +17,13 @@
   <tr>
     <td>飞机云</td>
     <td>节点多</td>
-    <td><a href="https://bit.ly/45jcEiI" target="_blank">https://bit.ly/45jcEiI</a></td>
+    <td><a href="https://feijiyun911.com/auth/register?code=vOmh" target="_blank">https://feijiyun911.com</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>极客云</td>
     <td>实惠</td>
-    <td><a href="https://bit.ly/3KoYH9w" target="_blank">https://bit.ly/3KoYH9w</a></td>
+    <td><a href="https://jike48.xyz/auth/register?code=niIy" target="_blank">https://jike48.xyz</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
