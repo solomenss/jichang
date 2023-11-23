@@ -9,16 +9,10 @@
     <td width="441" bgcolor="#00CCFF"><strong>机场节点</strong></td>
   </tr>
   <tr>
-    <td>STC</td>
-    <td>速度快，稳定， IPLC节点 </td>
-    <td><a href="https://8va3.gardenparty.me/auth/register?code=9wdD" target="_blank">https://bit.ly/456cFpI</a></td>
+    <td>九联</td>
+    <td>速度快，稳定， 性价比高 </td>
+    <td><a href="https://www.ninelinks.net" target="_blank">https://www.ninelinks.net</a></td>
     <td>SSR和V2ray</td>
-  </tr>
-  <tr>
-    <td>WgetCloud</td>
-    <td>速度快，原生IP支持奈飞非自制剧</td>
-    <td><a href="https://bit.ly/wgetcloud" target="_blank">https://bit.ly/wgetcloud</a></td>
-    <td>Trojan/V2ray/SSR</td>
   </tr>
   <tr>
     <td>飞机云</td>
@@ -49,12 +43,6 @@
     <td>速度快，按量购买</td>
     <td><a href="https://bit.ly/42uM3gV" target="_blank">https://bit.ly/42uM3gV</a></td>
     <td>SS</td>
-  </tr>
-  <tr>
-    <td>叮当云</td>
-    <td>免费试用</td>
-    <td><a href="https://bit.ly/40LRjx9" target="_blank">https://bit.ly/40LRjx9</a></td>
-    <td>V2Ray</td>
   </tr>
   <tr>
     <td>追风岛</td>
